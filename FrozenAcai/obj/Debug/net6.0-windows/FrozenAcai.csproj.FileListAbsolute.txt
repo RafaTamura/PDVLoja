@@ -1,0 +1,17 @@
+D:\Projetos\FrozenAcai\FrozenAcai\obj\Debug\net6.0-windows\FrozenAcai.csproj.AssemblyReference.cache
+D:\Projetos\FrozenAcai\FrozenAcai\obj\Debug\net6.0-windows\FrozenAcai.csproj.GenerateResource.cache
+D:\Projetos\FrozenAcai\FrozenAcai\obj\Debug\net6.0-windows\FrozenAcai.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\FrozenAcai\FrozenAcai\obj\Debug\net6.0-windows\FrozenAcai.AssemblyInfoInputs.cache
+D:\Projetos\FrozenAcai\FrozenAcai\obj\Debug\net6.0-windows\FrozenAcai.AssemblyInfo.cs
+D:\Projetos\FrozenAcai\FrozenAcai\obj\Debug\net6.0-windows\FrozenAcai.csproj.CoreCompileInputs.cache
+D:\Projetos\FrozenAcai\FrozenAcai\bin\Debug\net6.0-windows\FrozenAcai.exe
+D:\Projetos\FrozenAcai\FrozenAcai\bin\Debug\net6.0-windows\FrozenAcai.deps.json
+D:\Projetos\FrozenAcai\FrozenAcai\bin\Debug\net6.0-windows\FrozenAcai.runtimeconfig.json
+D:\Projetos\FrozenAcai\FrozenAcai\bin\Debug\net6.0-windows\FrozenAcai.dll
+D:\Projetos\FrozenAcai\FrozenAcai\bin\Debug\net6.0-windows\FrozenAcai.pdb
+D:\Projetos\FrozenAcai\FrozenAcai\obj\Debug\net6.0-windows\FrozenAcai.Inicial.resources
+D:\Projetos\FrozenAcai\FrozenAcai\obj\Debug\net6.0-windows\FrozenAcai.dll
+D:\Projetos\FrozenAcai\FrozenAcai\obj\Debug\net6.0-windows\refint\FrozenAcai.dll
+D:\Projetos\FrozenAcai\FrozenAcai\obj\Debug\net6.0-windows\FrozenAcai.pdb
+D:\Projetos\FrozenAcai\FrozenAcai\obj\Debug\net6.0-windows\FrozenAcai.genruntimeconfig.cache
+D:\Projetos\FrozenAcai\FrozenAcai\obj\Debug\net6.0-windows\ref\FrozenAcai.dll
